@@ -24,17 +24,16 @@ rails server
 rails routes
 ```
 
+### Database Creation:
 * This app uses the pg gem, a PostgreSQL client library for Ruby. PostgreSQL is a general-purpose object-relational database management system. The file config/database.yml has been configured to use postgresql. To create the databases, run:
 ```
 rails db:create
 ```
 
+### Configuration:
+* This app has been configured to use Boostrap, an open source toolkit for developing with HTML, CSS and JS (see Gemfile).
 
-* Configuration
 
-* Database creation
-
-* Database initialization
 
 * How to run the test suite
 
