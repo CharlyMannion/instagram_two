@@ -1,13 +1,25 @@
-# README
+# FINSTAGRAM
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A clone of Instagram, built with Ruby on Rails
 
-Things you may want to cover:
+## Getting started:
 
-* Ruby version
+* `git clone https://github.com/CharlyMannion/finstagram`
+* `bundle install`
+*
 
-* System dependencies
+## Info:
+
+* Ruby 2.5.1p57
+
+* Rails 6.0.2.2
+
+* Starting up the Web Server:
+```
+rails server
+```
+
+
 
 * Configuration
 
