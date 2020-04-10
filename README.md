@@ -19,6 +19,15 @@ A clone of Instagram, built with Ruby on Rails
 rails server
 ```
 
+* You can view all current routes of application by:
+```
+rails routes
+```
+
+* This app uses the pg gem, a PostgreSQL client library for Ruby. PostgreSQL is a general-purpose object-relational database management system. The file config/database.yml has been configured to use postgresql. To create the databases, run:
+```
+rails db:create
+```
 
 
 * Configuration
